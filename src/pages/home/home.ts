@@ -291,7 +291,7 @@ export class HomePage {
             let alert = this.alertCtrl.create({
                 title:'Sorry!',
                 cssClass:'action-close',
-                subTitle:"Your current profile status is not  <strong>“Verified”</strong>. You only scan the coupon codes when your profile status is <strong class=Approved>“Verified”</strong>. To know more, you can call us at <a href=tel:9829062610>9829062610</a> or chat with us.",
+                subTitle:"Your current profile status is not  <strong>“Verified”</strong>. You only scan the coupon codes when your profile status is <strong class=Approved>“Verified”</strong>. To know more, you can call us at <a href=tel:7410884444>7410884444</a> or chat with us.",
                 buttons: [
                     // {
                     //     text: 'Chat With Us',
